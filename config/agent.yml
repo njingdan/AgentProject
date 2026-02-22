@@ -1,0 +1,6 @@
+external_data_path: data/external/records.csv
+
+
+# 天气MCP
+WEATHER_MCP_URL: https://dashscope.aliyuncs.com/api/v1/mcps/mcp-ZWU3ZmQ3OTVlMjY5/mcp
+
